@@ -16,7 +16,7 @@
 ## 📁 檔案結構
 
 ```
-japan-chubu-itinerary.html    ← 網頁主檔案（含 HTML + CSS + JS）
+index.html    ← 網頁主檔案（含 HTML + CSS + JS）
 japan-itinerary-code-guide.md ← 程式碼詳細說明文件
 README.md                      ← 本檔案
 ```
@@ -26,7 +26,7 @@ README.md                      ← 本檔案
 ## 🚀 如何瀏覽網頁
 
 ### 1. 開啟網頁
-直接用瀏覽器打開 `japan-chubu-itinerary.html` 即可，無需伺服器。
+直接用瀏覽器打開 `index.html` 即可，無需伺服器。
 
 ### 2. 瀏覽行程
 - 點擊上方 **D1～D7** 按鈕切換各天行程
